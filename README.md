@@ -96,13 +96,10 @@ Beyond software development, I have experience in football refereeing and intern
 
 Hamilelik sürecini takip etmeye ve anne-bebek deneyimini teknolojiyle desteklemeye yönelik geliştirdiğim proje.
 
-### 🎮 Published Mobile Game – Google Play
+### 🎮Arcade Hubs – Google Play
 
 Kendi geliştirdiğim mobil oyunu Google Play üzerinde yayımladım. Uygulama geliştirme, test, yayınlama ve güncelleme süreçlerinde deneyim kazandım.
 
-### 🎮 Arcade Hubs
-
-Oyun odaklı yazılım projem. Geliştirme, tasarım ve kullanıcı deneyimi üzerine çalışmalar içeriyor.
 
 ### 📚 Study Room
 
